@@ -1,0 +1,23 @@
+body{
+    background-color: #c21212;
+}
+
+body{
+    background-color: rgb(189, 209, 3);
+    color: rgb(129, 34, 240);
+    font-size: 100px;
+}
+div{
+    background-color: blue;
+    padding: 20px;
+    border-style: dashed;
+    border-width: 5px;
+    border-color: rgb(104, 104, 151);
+    margin: 50px;
+}
+
+img
+{
+    border-radius: 20px;
+}
+a{color: azure;}
